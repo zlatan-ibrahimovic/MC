@@ -1,0 +1,12 @@
+Nous indiquons ici la taille de la plus petite couverture de sommets qui est censÃ©e exister pour les graphes en fonction du nom de fichier.
+Ces valeurs ont Ã©tÃ© testÃ©es thÃ©oriquement et avec Glucose.
+
+C10: 5
+C10a2 : 7
+C10a3 : 5
+K5_5: 5
+K7_11: 7
+kn62: 9 ou 10 (On vÃ©rifie facilement que 7 ne marche pas, que 10 marche, on souffre plus pour 8 et 9).
+Petersen: 6
+sierp23: 6
+sierp33: 18 (Sat facile, UNSAT pour 17 long)
